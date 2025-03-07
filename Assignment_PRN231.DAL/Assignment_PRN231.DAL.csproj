@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment_PRN231.Model\Assignment_PRN231.Model.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_PRN231.Model
+namespace Assignment_PRN231.Model.Models.DTO.Tag
 {
-    class FileName
+    class CreateTagDTO
     {
     }
 }
